@@ -1,4 +1,6 @@
-# NodeJS Express in Typescript Project Template
+# Express in Typescript Project Template
+
+This is empty Express (back end) project template with support for Typescript.
 
 ## Development server
 
